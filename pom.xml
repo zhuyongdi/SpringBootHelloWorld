@@ -11,7 +11,7 @@
     <groupId>com.zhuyongdi</groupId>
     <artifactId>springboothelloworld</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>springboothelloworld</name>
     <description>Hello world project for Spring Boot</description>
 
